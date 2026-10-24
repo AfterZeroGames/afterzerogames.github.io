@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>After Zero · cozy puzzle games</title>
+<meta name="description" content="After Zero makes cozy puzzle games for Android. What comes after reset.">
+<meta property="og:title" content="After Zero">
+<meta property="og:description" content="Cozy puzzle games. What comes after reset.">
+<meta property="og:image" content="https://afterzerogames.github.io/img/afterzero.png">
+<link rel="icon" href="favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Caprasimo&display=swap">
+<style>
+  :root {
+    --night: #0d0b1f; --deep: #160f36; --violet: #2a1f66; --ring: #e4e6f8; --text: #ececf2; --muted: #a9a4dc;
+    --paper: #fffdf6; --ink: #1f2e29; --accent: #a83246; --soft: #6d68a8;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; color: var(--text); font-family: 'Bricolage Grotesque', system-ui, sans-serif; font-size: 17px; line-height: 1.55;
+    background: radial-gradient(ellipse 110% 60% at 50% 0%, #241a5a 0%, var(--deep) 45%, var(--night) 100%) fixed; min-height: 100vh; }
+  a { color: inherit; }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+  header { padding: 72px 0 40px; text-align: center; }
+  header img { width: 112px; height: 112px; border-radius: 28px; }
+  h1 { font-size: clamp(44px, 9vw, 76px); line-height: 1; margin: 18px 0 8px; letter-spacing: -.02em; font-weight: 800; }
+  .tag { color: var(--muted); font-weight: 600; font-size: clamp(18px, 3.4vw, 22px); }
+  .social { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 28px; }
+  .social a { text-decoration: none; padding: 9px 16px; border-radius: 999px; background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.12); font-weight: 600; font-size: 15px; }
+  .social a:hover { background: rgba(255,255,255,.14); }
+  h2 { font-size: 15px; letter-spacing: .14em; text-transform: uppercase; color: var(--soft); margin: 40px 0 16px; }
+  .game { background: var(--paper); color: var(--ink); border-radius: 28px; padding: 28px; display: grid; grid-template-columns: 1.1fr 1fr; gap: 28px; align-items: center; box-shadow: 0 30px 80px rgba(0,0,0,.35); }
+  .game .head { display: flex; align-items: center; gap: 16px; }
+  .game .head img { width: 76px; height: 76px; border-radius: 18px; }
+  .game h3 { font-family: 'Caprasimo', Georgia, serif; font-weight: 400; font-size: 40px; line-height: 1; margin: 0; }
+  .game h3 span { color: var(--accent); }
+  .game .kind { color: #566a61; font-weight: 600; margin-top: 6px; }
+  .game p { margin: 18px 0; color: #34453f; }
+  .pill { display: inline-block; padding: 13px 22px; border-radius: 999px; background: var(--accent); color: #fff; font-weight: 800; text-decoration: none; }
+  .pill.soon { background: #ece5d6; color: var(--ink); }
+  .links { margin-top: 14px; font-size: 14px; color: #566a61; }
+  .shots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+  .shots img { width: 100%; border-radius: 14px; display: block; box-shadow: 0 8px 24px rgba(0,0,0,.18); }
+  footer { padding: 56px 0 64px; color: var(--muted); font-size: 15px; text-align: center; }
+  @media (max-width: 760px) { .game { grid-template-columns: 1fr; padding: 22px; } header { padding-top: 48px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="img/afterzero-256.png" alt="After Zero logo">
+    <h1>After Zero</h1>
+    <div class="tag">Cozy puzzle games. What comes after reset.</div>
+    <nav class="social" aria-label="After Zero on social media">
+      <a href="https://www.youtube.com/@afterzerogames">YouTube</a>
+      <a href="https://www.instagram.com/afterzerogames/">Instagram</a>
+      <a href="https://www.tiktok.com/@afterzero.games">TikTok</a>
+      <a href="https://bsky.app/profile/afterzerogames.bsky.social">Bluesky</a>
+    </nav>
+  </header>
+
+  <h2>Our games</h2>
+  <section class="game" id="layer-cafe">
+    <div>
+      <div class="head">
+        <img src="img/layer-cafe-icon.png" alt="Layer Café icon">
+        <div><h3>Layer <span>Café</span></h3><div class="kind">Drink puzzle · Android</div></div>
+      </div>
+      <p>Pour, layer and serve. Heavy drinks sink, light ones float, and every order has to come out in exactly the right layers. Short levels, no timers, and a little café that grows with every drink you serve.</p>
+      <a class="pill soon" id="lc-cta" href="https://play.google.com/store/apps/details?id=com.afterzero.layercafe&amp;utm_source=afterzero_site">Coming soon to Google Play</a>
+      <div class="links"><a href="layer-cafe/privacy.html">Privacy policy</a></div>
+    </div>
+    <div class="shots">
+      <img src="img/layer-cafe-1.jpg" alt="Layered drink being poured" loading="lazy">
+      <img src="img/layer-cafe-2.jpg" alt="A fully decorated café" loading="lazy">
+      <img src="img/layer-cafe-3.jpg" alt="Two orders served" loading="lazy">
+    </div>
+  </section>
+
+  <footer>After Zero · <a href="mailto:afterzero.contact@gmail.com">afterzero.contact@gmail.com</a></footer>
+</div>
+<script>
+  // the marketing bot flips this to "live" the day a game appears on Google Play
+  fetch('games.json', { cache: 'no-store' }).then(r => r.json()).then(g => {
+    const lc = g['layer-cafe']; const a = document.getElementById('lc-cta');
+    if (lc && lc.status === 'live') { a.textContent = 'Get it free on Google Play'; a.classList.remove('soon'); }
+  }).catch(() => {});
+</script>
+</body>
+</html>
