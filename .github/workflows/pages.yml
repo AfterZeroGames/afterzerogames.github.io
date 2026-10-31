@@ -1,0 +1,28 @@
+name: publish site
+# GitHub Pages serves the gh-pages branch. It is rebuilt as one orphan commit from main,
+# so the clips the marketing bot drops there for Instagram never pile up in history.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: pages
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          rm -rf .git .github
+          touch .nojekyll
+          git init -q -b gh-pages
+          git add -A
+          git -c user.name="After Zero bot" -c user.email="afterzero.contact@gmail.com" commit -qm "site"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" gh-pages
+      - name: Ask GitHub Pages to rebuild (pushes made with the workflow token don't trigger it)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST repos/${{ github.repository }}/pages/builds || true
