@@ -1,0 +1,19 @@
+{
+  "_note": "Level packs for Layer Café after the ones bundled in the app. Each entry: k, name, day (days after launch), size, kind, manual, core, file.",
+  "packs": [
+    {
+      "k": 5,
+      "name": "Sunday Brunch",
+      "day": 28,
+      "date": "2026-11-13",
+      "size": 100,
+      "kind": "mix",
+      "manual": true,
+      "core": 2,
+      "file": "pack-5.json",
+      "first": 251,
+      "made": "2026-11-07"
+    }
+  ],
+  "launch": "2026-10-23"
+}

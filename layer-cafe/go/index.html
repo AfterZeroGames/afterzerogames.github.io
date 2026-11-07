@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Layer Café on Google Play</title>
+<meta name="robots" content="noindex">
+<style>body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#f6efe4;color:#1f2e29;font:600 18px/1.4 system-ui,sans-serif;text-align:center;padding:24px;box-sizing:border-box}a{color:#a83246}</style>
+</head>
+<body>
+<p>Opening Layer Café on Google Play…<br><a id="go" href="https://play.google.com/store/apps/details?id=com.afterzero.layercafe&amp;utm_source=bio&amp;utm_medium=bio&amp;utm_campaign=bio">Tap here if nothing happens</a></p>
+<script>
+// Link-in-bio for Layer Café: sends visitors to Google Play tagged with where they came from (?s=tiktok, instagram, …)
+// and with the latest clip (latest.json, written by the After Zero marketing bot), so the store reports show which
+// clip and platform brought each install.
+(function () {
+  var q = new URLSearchParams(location.search);
+  var s = (q.get('s') || 'bio').replace(/[^a-z0-9_-]/gi, '').slice(0, 24) || 'bio';
+  var base = 'https://play.google.com/store/apps/details?id=com.afterzero.layercafe';
+  function go(c) { var u = base + '&utm_source=' + encodeURIComponent(s) + '&utm_medium=bio&utm_campaign=' + encodeURIComponent(c); document.getElementById('go').href = u; location.replace(u); }
+  var done = false, t = setTimeout(function () { if (!done) { done = true; go('bio'); } }, 1500);
+  fetch('latest.json?v=' + Date.now()).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+    if (done) return; done = true; clearTimeout(t);
+    go(j && /^[\w-]{1,60}$/.test(j.campaign || '') ? j.campaign : 'bio');
+  }).catch(function () { if (!done) { done = true; clearTimeout(t); go('bio'); } });
+})();
+</script>
+</body>
+</html>
