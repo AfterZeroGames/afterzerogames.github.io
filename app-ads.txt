@@ -1,2 +1,6 @@
 google.com, pub-5200231887798448, DIRECT, f08c47fec0942fa0
 vungle.com, 6af025a3a315ae46c89a9cc5, DIRECT, c107d686becd2d77
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
