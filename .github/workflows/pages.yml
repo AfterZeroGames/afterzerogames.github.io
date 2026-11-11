@@ -16,6 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
+          # keep what the marketing bot hosts on gh-pages (clips in media/, each game's go/latest.json): a push to main
+          # used to wipe them, so TikTok links died mid-week (2026-11-11)
+          git clone -q --depth 1 --branch gh-pages "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/old || true
+          if [ -d /tmp/old/media ]; then mkdir -p media && cp -n /tmp/old/media/* media/ 2>/dev/null || true; fi
+          for f in /tmp/old/*/go/latest.json; do [ -f "$f" ] && cp "$f" "${f#/tmp/old/}" || true; done
           rm -rf .git .github
           touch .nojekyll
           git init -q -b gh-pages
