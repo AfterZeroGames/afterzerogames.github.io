@@ -1,0 +1,1977 @@
+{
+ "_note": "Downloaded by Layer Café (app 1.0.63+): recipe cards after the first 120 (one every 10 levels from level 559) and cafés after Rio. Checked field by field by src/packs.js (Content).",
+ "recipes": [
+  {
+   "n": "Iced Brown Sugar Oat Shaken Espresso",
+   "cat": "drink",
+   "from": "Modern café classic",
+   "layers": [
+    "caramel",
+    "espresso",
+    "milk"
+   ],
+   "art": "tall ice straw",
+   "ing": [
+    "2 shots espresso",
+    "1 tbsp brown sugar syrup",
+    "Ice",
+    "120 ml oat milk",
+    "A pinch of cinnamon"
+   ],
+   "steps": [
+    "Shake the hot espresso with the syrup, cinnamon and a handful of ice until frothy.",
+    "Strain it into a glass full of ice.",
+    "Top with oat milk and watch it swirl down."
+   ],
+   "fact": "Shaking hot espresso with ice cools it in seconds and gives it a light foam.",
+   "tr": {
+    "ro": {
+     "n": "Espresso shaken cu zahăr brun și ovăz",
+     "from": "Clasic modern de cafenea",
+     "ing": [
+      "2 shoturi de espresso",
+      "1 lingură sirop de zahăr brun",
+      "Gheață",
+      "120 ml lapte de ovăz",
+      "Un vârf de scorțișoară"
+     ],
+     "steps": [
+      "Agită espresso-ul fierbinte cu siropul, scorțișoara și o mână de gheață până face spumă.",
+      "Strecoară-l într-un pahar plin cu gheață.",
+      "Adaugă laptele de ovăz deasupra și privește cum coboară în valuri."
+     ],
+     "fact": "Agitat cu gheață, espresso-ul fierbinte se răcește în câteva secunde și capătă o spumă ușoară."
+    },
+    "es": {
+     "n": "Espresso agitado con azúcar moreno y avena",
+     "from": "Clásico moderno de cafetería",
+     "ing": [
+      "2 cafés espresso",
+      "1 cda de sirope de azúcar moreno",
+      "Hielo",
+      "120 ml de bebida de avena",
+      "Una pizca de canela"
+     ],
+     "steps": [
+      "Agita el espresso caliente con el sirope, la canela y un puñado de hielo hasta que haga espuma.",
+      "Cuélalo en un vaso lleno de hielo.",
+      "Añade la bebida de avena por encima y mira cómo baja en remolinos."
+     ],
+     "fact": "Agitar el espresso caliente con hielo lo enfría en segundos y le da una espuma ligera."
+    },
+    "pt": {
+     "n": "Espresso batido com açúcar mascavo e aveia",
+     "from": "Clássico moderno de cafeteria",
+     "ing": [
+      "2 doses de espresso",
+      "1 colher (sopa) de xarope de açúcar mascavo",
+      "Gelo",
+      "120 ml de bebida de aveia",
+      "Uma pitada de canela"
+     ],
+     "steps": [
+      "Bata o espresso quente com o xarope, a canela e um punhado de gelo até espumar.",
+      "Coe num copo cheio de gelo.",
+      "Complete com a bebida de aveia e veja descer em redemoinhos."
+     ],
+     "fact": "Bater o espresso quente com gelo o esfria em segundos e cria uma espuma leve."
+    },
+    "de": {
+     "n": "Geschüttelter Espresso mit braunem Zucker und Hafer",
+     "from": "Moderner Café-Klassiker",
+     "ing": [
+      "2 Espresso",
+      "1 EL Sirup aus braunem Zucker",
+      "Eis",
+      "120 ml Haferdrink",
+      "Eine Prise Zimt"
+     ],
+     "steps": [
+      "Den heißen Espresso mit Sirup, Zimt und einer Handvoll Eis schütteln, bis er schäumt.",
+      "In ein Glas voller Eis abseihen.",
+      "Mit Haferdrink auffüllen und zusehen, wie er in Wirbeln absinkt."
+     ],
+     "fact": "Mit Eis geschüttelt kühlt heißer Espresso in Sekunden ab und bekommt einen leichten Schaum."
+    },
+    "fr": {
+     "n": "Espresso secoué au sucre brun et à l'avoine",
+     "from": "Classique moderne de café",
+     "ing": [
+      "2 espressos",
+      "1 c. à soupe de sirop de sucre brun",
+      "Glaçons",
+      "120 ml de boisson à l'avoine",
+      "Une pincée de cannelle"
+     ],
+     "steps": [
+      "Secoue l'espresso chaud avec le sirop, la cannelle et une poignée de glaçons jusqu'à ce qu'il mousse.",
+      "Filtre-le dans un verre rempli de glaçons.",
+      "Ajoute la boisson à l'avoine et regarde-la descendre en volutes."
+     ],
+     "fact": "Secoué avec des glaçons, l'espresso chaud refroidit en quelques secondes et prend une mousse légère."
+    },
+    "it": {
+     "n": "Espresso shakerato con zucchero di canna e avena",
+     "from": "Classico moderno da bar",
+     "ing": [
+      "2 espresso",
+      "1 cucchiaio di sciroppo di zucchero di canna",
+      "Ghiaccio",
+      "120 ml di bevanda all'avena",
+      "Un pizzico di cannella"
+     ],
+     "steps": [
+      "Shakera l'espresso caldo con lo sciroppo, la cannella e una manciata di ghiaccio finché fa schiuma.",
+      "Filtralo in un bicchiere pieno di ghiaccio.",
+      "Aggiungi la bevanda all'avena sopra e guardala scendere a spirale."
+     ],
+     "fact": "Shakerato con il ghiaccio, l'espresso caldo si raffredda in pochi secondi e prende una schiuma leggera."
+    },
+    "tr": {
+     "n": "Esmer şekerli yulaflı çalkalanmış espresso",
+     "from": "Modern kafe klasiği",
+     "ing": [
+      "2 shot espresso",
+      "1 yemek kaşığı esmer şeker şurubu",
+      "Buz",
+      "120 ml yulaf sütü",
+      "Bir tutam tarçın"
+     ],
+     "steps": [
+      "Sıcak espressoyu şurup, tarçın ve bir avuç buzla köpürene kadar çalkala.",
+      "Buz dolu bir bardağa süz.",
+      "Üstüne yulaf sütü ekle ve girdaplar halinde inişini izle."
+     ],
+     "fact": "Buzla çalkalanan sıcak espresso saniyeler içinde soğur ve hafif bir köpük kazanır."
+    },
+    "pl": {
+     "n": "Wstrząśnięte espresso z brązowym cukrem i owsem",
+     "from": "Nowoczesna klasyka kawiarni",
+     "ing": [
+      "2 espresso",
+      "1 łyżka syropu z brązowego cukru",
+      "Lód",
+      "120 ml napoju owsianego",
+      "Szczypta cynamonu"
+     ],
+     "steps": [
+      "Wstrząśnij gorące espresso z syropem, cynamonem i garścią lodu, aż się spieni.",
+      "Przecedź do szklanki pełnej lodu.",
+      "Dolej napój owsiany i patrz, jak opada wirami."
+     ],
+     "fact": "Wstrząśnięte z lodem gorące espresso stygnie w kilka sekund i dostaje lekką piankę."
+    }
+   }
+  },
+  {
+   "n": "Mazagran",
+   "cat": "drink",
+   "from": "Algeria and Portugal",
+   "layers": [
+    "soda",
+    "espresso"
+   ],
+   "art": "tall ice lemon",
+   "ing": [
+    "1 shot espresso, cooled",
+    "Juice of ½ lemon",
+    "1–2 tsp sugar",
+    "Ice",
+    "100 ml cold water"
+   ],
+   "steps": [
+    "Stir the sugar into the warm espresso until it dissolves, then let it cool.",
+    "Fill a glass with ice, water and lemon juice.",
+    "Pour the coffee slowly on top and add a lemon slice."
+   ],
+   "fact": "It is named after a fort in Algeria, where French soldiers drank coffee with cold water in the 1840s.",
+   "tr": {
+    "ro": {
+     "n": "Mazagran",
+     "from": "Algeria și Portugalia",
+     "ing": [
+      "1 shot de espresso răcit",
+      "Zeama de la ½ lămâie",
+      "1–2 lingurițe de zahăr",
+      "Gheață",
+      "100 ml apă rece"
+     ],
+     "steps": [
+      "Dizolvă zahărul în espresso-ul cald, apoi lasă-l să se răcească.",
+      "Umple un pahar cu gheață, apă și zeamă de lămâie.",
+      "Toarnă cafeaua încet deasupra și adaugă o felie de lămâie."
+     ],
+     "fact": "Poartă numele unui fort din Algeria, unde soldații francezi beau cafea cu apă rece prin anii 1840."
+    },
+    "es": {
+     "n": "Mazagrán",
+     "from": "Argelia y Portugal",
+     "ing": [
+      "1 espresso frío",
+      "El zumo de ½ limón",
+      "1–2 cdtas de azúcar",
+      "Hielo",
+      "100 ml de agua fría"
+     ],
+     "steps": [
+      "Disuelve el azúcar en el espresso caliente y deja que se enfríe.",
+      "Llena un vaso con hielo, agua y zumo de limón.",
+      "Vierte el café despacio por encima y añade una rodaja de limón."
+     ],
+     "fact": "Debe su nombre a un fuerte de Argelia donde los soldados franceses tomaban café con agua fría hacia 1840."
+    },
+    "pt": {
+     "n": "Mazagran",
+     "from": "Argélia e Portugal",
+     "ing": [
+      "1 espresso frio",
+      "Suco de ½ limão",
+      "1–2 colheres (chá) de açúcar",
+      "Gelo",
+      "100 ml de água gelada"
+     ],
+     "steps": [
+      "Dissolva o açúcar no espresso quente e deixe esfriar.",
+      "Encha um copo com gelo, água e suco de limão.",
+      "Despeje o café devagar por cima e junte uma rodela de limão."
+     ],
+     "fact": "O nome vem de um forte na Argélia, onde soldados franceses tomavam café com água fria por volta de 1840."
+    },
+    "de": {
+     "n": "Mazagran",
+     "from": "Algerien und Portugal",
+     "ing": [
+      "1 Espresso, abgekühlt",
+      "Saft einer ½ Zitrone",
+      "1–2 TL Zucker",
+      "Eis",
+      "100 ml kaltes Wasser"
+     ],
+     "steps": [
+      "Den Zucker im warmen Espresso auflösen und abkühlen lassen.",
+      "Ein Glas mit Eis, Wasser und Zitronensaft füllen.",
+      "Den Kaffee langsam obenauf gießen und eine Zitronenscheibe dazugeben."
+     ],
+     "fact": "Benannt nach einem Fort in Algerien, wo französische Soldaten um 1840 Kaffee mit kaltem Wasser tranken."
+    },
+    "fr": {
+     "n": "Mazagran",
+     "from": "Algérie et Portugal",
+     "ing": [
+      "1 espresso refroidi",
+      "Le jus d'½ citron",
+      "1 à 2 c. à café de sucre",
+      "Glaçons",
+      "100 ml d'eau froide"
+     ],
+     "steps": [
+      "Dissous le sucre dans l'espresso chaud, puis laisse refroidir.",
+      "Remplis un verre de glaçons, d'eau et de jus de citron.",
+      "Verse le café doucement par-dessus et ajoute une rondelle de citron."
+     ],
+     "fact": "Il doit son nom à un fort d'Algérie où des soldats français buvaient du café à l'eau froide vers 1840."
+    },
+    "it": {
+     "n": "Mazagran",
+     "from": "Algeria e Portogallo",
+     "ing": [
+      "1 espresso freddo",
+      "Il succo di ½ limone",
+      "1–2 cucchiaini di zucchero",
+      "Ghiaccio",
+      "100 ml di acqua fredda"
+     ],
+     "steps": [
+      "Sciogli lo zucchero nell'espresso caldo, poi lascialo raffreddare.",
+      "Riempi un bicchiere con ghiaccio, acqua e succo di limone.",
+      "Versa il caffè piano sopra e aggiungi una fetta di limone."
+     ],
+     "fact": "Prende il nome da un forte in Algeria, dove i soldati francesi bevevano caffè con acqua fredda verso il 1840."
+    },
+    "tr": {
+     "n": "Mazagran",
+     "from": "Cezayir ve Portekiz",
+     "ing": [
+      "1 shot soğumuş espresso",
+      "½ limonun suyu",
+      "1–2 tatlı kaşığı şeker",
+      "Buz",
+      "100 ml soğuk su"
+     ],
+     "steps": [
+      "Şekeri sıcak espressoda erit, sonra soğumaya bırak.",
+      "Bir bardağı buz, su ve limon suyuyla doldur.",
+      "Kahveyi üstüne yavaşça dök ve bir dilim limon ekle."
+     ],
+     "fact": "Adını, 1840'larda Fransız askerlerinin soğuk suyla kahve içtiği Cezayir'deki bir kaleden alır."
+    },
+    "pl": {
+     "n": "Mazagran",
+     "from": "Algieria i Portugalia",
+     "ing": [
+      "1 espresso, ostudzone",
+      "Sok z ½ cytryny",
+      "1–2 łyżeczki cukru",
+      "Lód",
+      "100 ml zimnej wody"
+     ],
+     "steps": [
+      "Rozpuść cukier w ciepłym espresso i odstaw do ostygnięcia.",
+      "Napełnij szklankę lodem, wodą i sokiem z cytryny.",
+      "Powoli wlej kawę na wierzch i dodaj plasterek cytryny."
+     ],
+     "fact": "Nazwa pochodzi od fortu w Algierii, gdzie francuscy żołnierze pili około 1840 roku kawę z zimną wodą."
+    }
+   }
+  },
+  {
+   "n": "Bicerin",
+   "cat": "drink",
+   "from": "Turin, Italy",
+   "layers": [
+    "caramel",
+    "espresso",
+    "foam"
+   ],
+   "art": "small cream",
+   "ing": [
+    "40 g dark chocolate",
+    "60 ml milk",
+    "1 shot espresso",
+    "40 ml cream, lightly whipped"
+   ],
+   "steps": [
+    "Melt the chocolate in the warm milk and pour it into a small glass.",
+    "Pour the espresso gently over the back of a spoon.",
+    "Spoon the cream on top and drink it without stirring."
+   ],
+   "fact": "Bicerin means “small glass” in the Piedmont dialect; it has been served in the same Turin café since 1763.",
+   "tr": {
+    "ro": {
+     "n": "Bicerin",
+     "from": "Torino, Italia",
+     "ing": [
+      "40 g ciocolată neagră",
+      "60 ml lapte",
+      "1 shot de espresso",
+      "40 ml frișcă bătută ușor"
+     ],
+     "steps": [
+      "Topește ciocolata în laptele cald și toarn-o într-un pahar mic.",
+      "Toarnă espresso-ul încet peste dosul unei linguri.",
+      "Pune frișca deasupra și bea fără să amesteci."
+     ],
+     "fact": "Bicerin înseamnă „păhărel” în dialectul din Piemont; se servește în aceeași cafenea din Torino din 1763."
+    },
+    "es": {
+     "n": "Bicerin",
+     "from": "Turín, Italia",
+     "ing": [
+      "40 g de chocolate negro",
+      "60 ml de leche",
+      "1 espresso",
+      "40 ml de nata ligeramente montada"
+     ],
+     "steps": [
+      "Derrite el chocolate en la leche caliente y sírvelo en un vaso pequeño.",
+      "Vierte el espresso con cuidado sobre el dorso de una cuchara.",
+      "Pon la nata encima y bébelo sin remover."
+     ],
+     "fact": "Bicerin significa “vasito” en dialecto piamontés; se sirve en el mismo café de Turín desde 1763."
+    },
+    "pt": {
+     "n": "Bicerin",
+     "from": "Turim, Itália",
+     "ing": [
+      "40 g de chocolate amargo",
+      "60 ml de leite",
+      "1 espresso",
+      "40 ml de creme de leite levemente batido"
+     ],
+     "steps": [
+      "Derreta o chocolate no leite morno e despeje num copo pequeno.",
+      "Despeje o espresso devagar sobre as costas de uma colher.",
+      "Coloque o creme por cima e beba sem mexer."
+     ],
+     "fact": "Bicerin quer dizer “copinho” no dialeto do Piemonte; é servido no mesmo café de Turim desde 1763."
+    },
+    "de": {
+     "n": "Bicerin",
+     "from": "Turin, Italien",
+     "ing": [
+      "40 g Zartbitterschokolade",
+      "60 ml Milch",
+      "1 Espresso",
+      "40 ml leicht geschlagene Sahne"
+     ],
+     "steps": [
+      "Die Schokolade in der warmen Milch schmelzen und in ein kleines Glas gießen.",
+      "Den Espresso vorsichtig über einen Löffelrücken gießen.",
+      "Die Sahne obenauf geben und ohne Umrühren trinken."
+     ],
+     "fact": "Bicerin heißt im piemontesischen Dialekt „Gläschen“; seit 1763 wird er im selben Café in Turin serviert."
+    },
+    "fr": {
+     "n": "Bicerin",
+     "from": "Turin, Italie",
+     "ing": [
+      "40 g de chocolat noir",
+      "60 ml de lait",
+      "1 espresso",
+      "40 ml de crème légèrement fouettée"
+     ],
+     "steps": [
+      "Fais fondre le chocolat dans le lait chaud et verse-le dans un petit verre.",
+      "Verse l'espresso doucement sur le dos d'une cuillère.",
+      "Ajoute la crème par-dessus et bois sans mélanger."
+     ],
+     "fact": "Bicerin veut dire « petit verre » en piémontais ; on le sert dans le même café de Turin depuis 1763."
+    },
+    "it": {
+     "n": "Bicerin",
+     "from": "Torino, Italia",
+     "ing": [
+      "40 g di cioccolato fondente",
+      "60 ml di latte",
+      "1 espresso",
+      "40 ml di panna montata leggermente"
+     ],
+     "steps": [
+      "Sciogli il cioccolato nel latte caldo e versalo in un bicchierino.",
+      "Versa l'espresso piano sul dorso di un cucchiaio.",
+      "Metti la panna sopra e bevilo senza mescolare."
+     ],
+     "fact": "Bicerin significa “bicchierino” in piemontese; si serve nello stesso caffè di Torino dal 1763."
+    },
+    "tr": {
+     "n": "Bicerin",
+     "from": "Torino, İtalya",
+     "ing": [
+      "40 g bitter çikolata",
+      "60 ml süt",
+      "1 shot espresso",
+      "40 ml hafif çırpılmış krema"
+     ],
+     "steps": [
+      "Çikolatayı ılık sütte erit ve küçük bir bardağa dök.",
+      "Espressoyu bir kaşığın sırtından yavaşça dök.",
+      "Kremayı üstüne koy ve karıştırmadan iç."
+     ],
+     "fact": "Bicerin, Piemonte lehçesinde “küçük bardak” demektir; 1763'ten beri Torino'daki aynı kafede servis edilir."
+    },
+    "pl": {
+     "n": "Bicerin",
+     "from": "Turyn, Włochy",
+     "ing": [
+      "40 g gorzkiej czekolady",
+      "60 ml mleka",
+      "1 espresso",
+      "40 ml lekko ubitej śmietanki"
+     ],
+     "steps": [
+      "Rozpuść czekoladę w ciepłym mleku i wlej do małej szklanki.",
+      "Delikatnie wlej espresso po grzbiecie łyżki.",
+      "Nałóż śmietankę na wierzch i pij bez mieszania."
+     ],
+     "fact": "Bicerin w dialekcie piemonckim znaczy „szklaneczka”; od 1763 roku podaje go ta sama kawiarnia w Turynie."
+    }
+   }
+  },
+  {
+   "n": "Salted Caramel Latte",
+   "cat": "drink",
+   "from": "Modern café classic",
+   "layers": [
+    "caramel",
+    "milk",
+    "espresso",
+    "foam"
+   ],
+   "art": "mug drizzle salt",
+   "ing": [
+    "20 ml caramel sauce",
+    "A pinch of sea salt",
+    "1 shot espresso",
+    "200 ml milk, steamed"
+   ],
+   "steps": [
+    "Stir the caramel and salt into the bottom of a mug.",
+    "Pour in the steamed milk, holding back the foam.",
+    "Add the espresso slowly, top with foam and a drizzle of caramel."
+   ],
+   "fact": "A little salt makes caramel taste sweeter and rounder: it calms the bitter notes of the burnt sugar.",
+   "tr": {
+    "ro": {
+     "n": "Latte cu caramel sărat",
+     "from": "Clasic modern de cafenea",
+     "ing": [
+      "20 ml sos de caramel",
+      "Un vârf de sare de mare",
+      "1 shot de espresso",
+      "200 ml lapte spumat"
+     ],
+     "steps": [
+      "Amestecă caramelul și sarea pe fundul unei căni.",
+      "Toarnă laptele spumat, ținând spuma pe loc cu o lingură.",
+      "Adaugă încet espresso-ul, apoi spumă și un fir de caramel."
+     ],
+     "fact": "Puțină sare face caramelul mai dulce și mai rotund: îmblânzește gustul amar al zahărului ars."
+    },
+    "es": {
+     "n": "Latte de caramelo salado",
+     "from": "Clásico moderno de cafetería",
+     "ing": [
+      "20 ml de salsa de caramelo",
+      "Una pizca de sal marina",
+      "1 espresso",
+      "200 ml de leche vaporizada"
+     ],
+     "steps": [
+      "Mezcla el caramelo y la sal en el fondo de una taza.",
+      "Vierte la leche vaporizada reteniendo la espuma.",
+      "Añade el espresso despacio, corona con espuma y un hilo de caramelo."
+     ],
+     "fact": "Un poco de sal hace que el caramelo sepa más dulce y redondo: suaviza el amargor del azúcar tostado."
+    },
+    "pt": {
+     "n": "Latte de caramelo salgado",
+     "from": "Clássico moderno de cafeteria",
+     "ing": [
+      "20 ml de calda de caramelo",
+      "Uma pitada de sal marinho",
+      "1 espresso",
+      "200 ml de leite vaporizado"
+     ],
+     "steps": [
+      "Misture o caramelo e o sal no fundo de uma caneca.",
+      "Despeje o leite vaporizado, segurando a espuma.",
+      "Junte o espresso devagar e finalize com espuma e um fio de caramelo."
+     ],
+     "fact": "Um pouco de sal deixa o caramelo mais doce e redondo: suaviza o amargo do açúcar queimado."
+    },
+    "de": {
+     "n": "Salted Caramel Latte",
+     "from": "Moderner Café-Klassiker",
+     "ing": [
+      "20 ml Karamellsoße",
+      "Eine Prise Meersalz",
+      "1 Espresso",
+      "200 ml aufgeschäumte Milch"
+     ],
+     "steps": [
+      "Karamell und Salz am Boden einer Tasse verrühren.",
+      "Die heiße Milch eingießen und dabei den Schaum zurückhalten.",
+      "Den Espresso langsam dazugeben, mit Schaum und etwas Karamell krönen."
+     ],
+     "fact": "Ein wenig Salz lässt Karamell süßer und runder schmecken: Es mildert die Bitternoten des gebrannten Zuckers."
+    },
+    "fr": {
+     "n": "Latte au caramel salé",
+     "from": "Classique moderne de café",
+     "ing": [
+      "20 ml de sauce caramel",
+      "Une pincée de sel de mer",
+      "1 espresso",
+      "200 ml de lait moussé"
+     ],
+     "steps": [
+      "Mélange le caramel et le sel au fond d'une tasse.",
+      "Verse le lait chaud en retenant la mousse.",
+      "Ajoute l'espresso doucement, puis la mousse et un filet de caramel."
+     ],
+     "fact": "Une pointe de sel rend le caramel plus doux et plus rond : elle adoucit l'amertume du sucre brûlé."
+    },
+    "it": {
+     "n": "Latte al caramello salato",
+     "from": "Classico moderno da bar",
+     "ing": [
+      "20 ml di salsa al caramello",
+      "Un pizzico di sale marino",
+      "1 espresso",
+      "200 ml di latte montato"
+     ],
+     "steps": [
+      "Mescola caramello e sale sul fondo di una tazza.",
+      "Versa il latte caldo trattenendo la schiuma.",
+      "Aggiungi l'espresso piano, poi la schiuma e un filo di caramello."
+     ],
+     "fact": "Un po' di sale rende il caramello più dolce e rotondo: smorza le note amare dello zucchero bruciato."
+    },
+    "tr": {
+     "n": "Tuzlu karamelli latte",
+     "from": "Modern kafe klasiği",
+     "ing": [
+      "20 ml karamel sos",
+      "Bir tutam deniz tuzu",
+      "1 shot espresso",
+      "200 ml buharla ısıtılmış süt"
+     ],
+     "steps": [
+      "Karamel ve tuzu bir kupanın dibinde karıştır.",
+      "Köpüğü tutarak sıcak sütü dök.",
+      "Espressoyu yavaşça ekle, üstüne köpük ve biraz karamel gezdir."
+     ],
+     "fact": "Biraz tuz karameli daha tatlı ve yumuşak yapar: yanmış şekerin acılığını bastırır."
+    },
+    "pl": {
+     "n": "Latte ze słonym karmelem",
+     "from": "Nowoczesna klasyka kawiarni",
+     "ing": [
+      "20 ml sosu karmelowego",
+      "Szczypta soli morskiej",
+      "1 espresso",
+      "200 ml spienionego mleka"
+     ],
+     "steps": [
+      "Wymieszaj karmel z solą na dnie kubka.",
+      "Wlej gorące mleko, przytrzymując piankę.",
+      "Powoli dodaj espresso, na koniec piankę i strużkę karmelu."
+     ],
+     "fact": "Odrobina soli sprawia, że karmel smakuje słodziej i pełniej: łagodzi gorycz przypalonego cukru."
+    }
+   }
+  },
+  {
+   "n": "Cherry Limeade",
+   "cat": "mocktail",
+   "from": "American soda fountain",
+   "layers": [
+    "cherry",
+    "soda"
+   ],
+   "art": "tall ice lime cherry straw",
+   "ing": [
+    "20 ml cherry syrup or grenadine",
+    "Juice of 1 lime",
+    "200 ml lemon-lime soda",
+    "Ice",
+    "Cherries and lime to garnish"
+   ],
+   "steps": [
+    "Squeeze the lime into a glass full of ice.",
+    "Top up with the soda.",
+    "Pour the syrup slowly down the side so it settles at the bottom, then garnish."
+   ],
+   "fact": "Cherry limeade became famous at American drive-in diners, where it was mixed fresh at the window.",
+   "tr": {
+    "ro": {
+     "n": "Limonadă de lime cu cireșe",
+     "from": "Bar de sucuri american",
+     "ing": [
+      "20 ml sirop de cireșe sau grenadină",
+      "Zeama de la 1 lime",
+      "200 ml suc acidulat de lămâie-lime",
+      "Gheață",
+      "Cireșe și lime pentru decor"
+     ],
+     "steps": [
+      "Stoarce lime-ul într-un pahar plin cu gheață.",
+      "Completează cu sucul acidulat.",
+      "Toarnă siropul încet pe marginea paharului, să se așeze la fund, apoi decorează."
+     ],
+     "fact": "Băutura a devenit celebră în restaurantele americane drive-in, unde se amesteca proaspătă la fereastră."
+    },
+    "es": {
+     "n": "Limonada de lima con cereza",
+     "from": "Fuente de soda estadounidense",
+     "ing": [
+      "20 ml de sirope de cereza o granadina",
+      "El zumo de 1 lima",
+      "200 ml de refresco de lima-limón",
+      "Hielo",
+      "Cerezas y lima para decorar"
+     ],
+     "steps": [
+      "Exprime la lima en un vaso lleno de hielo.",
+      "Completa con el refresco.",
+      "Vierte el sirope despacio por el borde para que se quede abajo y decora."
+     ],
+     "fact": "Se hizo famosa en los restaurantes con servicio al coche de EE. UU., donde se preparaba al momento."
+    },
+    "pt": {
+     "n": "Limonada de limão com cereja",
+     "from": "Lanchonete americana",
+     "ing": [
+      "20 ml de xarope de cereja ou groselha",
+      "Suco de 1 limão",
+      "200 ml de refrigerante de limão",
+      "Gelo",
+      "Cerejas e limão para decorar"
+     ],
+     "steps": [
+      "Esprema o limão num copo cheio de gelo.",
+      "Complete com o refrigerante.",
+      "Despeje o xarope devagar pela lateral para que fique no fundo e decore."
+     ],
+     "fact": "Ficou famosa nos drive-ins americanos, onde era misturada na hora, na janela do carro."
+    },
+    "de": {
+     "n": "Kirsch-Limettenlimonade",
+     "from": "Amerikanische Soda-Bar",
+     "ing": [
+      "20 ml Kirschsirup oder Grenadine",
+      "Saft von 1 Limette",
+      "200 ml Zitronenlimonade",
+      "Eis",
+      "Kirschen und Limette zum Garnieren"
+     ],
+     "steps": [
+      "Die Limette in ein Glas voller Eis auspressen.",
+      "Mit der Limonade auffüllen.",
+      "Den Sirup langsam am Rand hinunterlaufen lassen, damit er unten bleibt, dann garnieren."
+     ],
+     "fact": "Berühmt wurde sie in amerikanischen Drive-in-Diners, wo sie frisch am Fenster gemischt wurde."
+    },
+    "fr": {
+     "n": "Limonade citron vert-cerise",
+     "from": "Bar à sodas américain",
+     "ing": [
+      "20 ml de sirop de cerise ou de grenadine",
+      "Le jus d'1 citron vert",
+      "200 ml de limonade citron-citron vert",
+      "Glaçons",
+      "Cerises et citron vert pour décorer"
+     ],
+     "steps": [
+      "Presse le citron vert dans un verre rempli de glaçons.",
+      "Complète avec la limonade.",
+      "Verse le sirop doucement le long du verre pour qu'il reste au fond, puis décore."
+     ],
+     "fact": "Elle est devenue célèbre dans les drive-in américains, où on la préparait minute au guichet."
+    },
+    "it": {
+     "n": "Limonata al lime e ciliegia",
+     "from": "Soda fountain americana",
+     "ing": [
+      "20 ml di sciroppo di ciliegia o granatina",
+      "Il succo di 1 lime",
+      "200 ml di gassosa al limone",
+      "Ghiaccio",
+      "Ciliegie e lime per guarnire"
+     ],
+     "steps": [
+      "Spremi il lime in un bicchiere pieno di ghiaccio.",
+      "Completa con la gassosa.",
+      "Versa lo sciroppo piano lungo il bordo perché resti sul fondo, poi guarnisci."
+     ],
+     "fact": "È diventata famosa nei drive-in americani, dove la preparavano al momento al finestrino."
+    },
+    "tr": {
+     "n": "Vişneli misket limonatası",
+     "from": "Amerikan soda büfesi",
+     "ing": [
+      "20 ml vişne şurubu ya da nar şurubu",
+      "1 misket limonunun suyu",
+      "200 ml limonlu gazoz",
+      "Buz",
+      "Süs için vişne ve misket limonu"
+     ],
+     "steps": [
+      "Misket limonunu buz dolu bir bardağa sık.",
+      "Gazozla tamamla.",
+      "Şurubu kenardan yavaşça dök ki dibe çöksün, sonra süsle."
+     ],
+     "fact": "Amerika'daki arabalı restoranlarda, pencerede taze karıştırılarak ünlendi."
+    },
+    "pl": {
+     "n": "Wiśniowa lemoniada z limonką",
+     "from": "Amerykański bar z napojami",
+     "ing": [
+      "20 ml syropu wiśniowego lub grenadyny",
+      "Sok z 1 limonki",
+      "200 ml napoju cytrynowo-limonkowego",
+      "Lód",
+      "Wiśnie i limonka do dekoracji"
+     ],
+     "steps": [
+      "Wyciśnij limonkę do szklanki pełnej lodu.",
+      "Dopełnij napojem gazowanym.",
+      "Powoli wlej syrop po ściance, żeby osiadł na dnie, i udekoruj."
+     ],
+     "fact": "Zasłynęła w amerykańskich barach dla zmotoryzowanych, gdzie mieszano ją na świeżo przy okienku."
+    }
+   }
+  },
+  {
+   "n": "Blueberry Lemonade",
+   "cat": "mocktail",
+   "from": "Summer classic",
+   "layers": [
+    "blue",
+    "soda"
+   ],
+   "art": "jar ice lemon berry",
+   "ing": [
+    "80 g blueberries",
+    "2 tbsp sugar",
+    "Juice of 2 lemons",
+    "300 ml cold water",
+    "Ice"
+   ],
+   "steps": [
+    "Simmer the blueberries with the sugar and a splash of water for 5 minutes, then strain.",
+    "Mix the lemon juice with the cold water.",
+    "Pour the blueberry syrup into a glass of ice and top up with the lemonade."
+   ],
+   "fact": "Blueberries get their colour from anthocyanins, the same pigments that turn butterfly pea tea purple.",
+   "tr": {
+    "ro": {
+     "n": "Limonadă cu afine",
+     "from": "Clasic de vară",
+     "ing": [
+      "80 g afine",
+      "2 linguri de zahăr",
+      "Zeama de la 2 lămâi",
+      "300 ml apă rece",
+      "Gheață"
+     ],
+     "steps": [
+      "Fierbe afinele cu zahărul și puțină apă 5 minute, apoi strecoară.",
+      "Amestecă zeama de lămâie cu apa rece.",
+      "Toarnă siropul de afine într-un pahar cu gheață și completează cu limonada."
+     ],
+     "fact": "Afinele își iau culoarea de la antociani, aceiași pigmenți care fac violet ceaiul de butterfly pea."
+    },
+    "es": {
+     "n": "Limonada de arándanos",
+     "from": "Clásico de verano",
+     "ing": [
+      "80 g de arándanos",
+      "2 cdas de azúcar",
+      "El zumo de 2 limones",
+      "300 ml de agua fría",
+      "Hielo"
+     ],
+     "steps": [
+      "Cuece los arándanos con el azúcar y un chorrito de agua 5 minutos y cuélalos.",
+      "Mezcla el zumo de limón con el agua fría.",
+      "Vierte el sirope de arándanos en un vaso con hielo y completa con la limonada."
+     ],
+     "fact": "Los arándanos deben su color a las antocianinas, los mismos pigmentos que vuelven morado el té de flor de guisante."
+    },
+    "pt": {
+     "n": "Limonada de mirtilo",
+     "from": "Clássico de verão",
+     "ing": [
+      "80 g de mirtilos",
+      "2 colheres (sopa) de açúcar",
+      "Suco de 2 limões",
+      "300 ml de água gelada",
+      "Gelo"
+     ],
+     "steps": [
+      "Ferva os mirtilos com o açúcar e um pouco de água por 5 minutos e coe.",
+      "Misture o suco de limão com a água gelada.",
+      "Coloque a calda de mirtilo num copo com gelo e complete com a limonada."
+     ],
+     "fact": "Os mirtilos devem a cor às antocianinas, os mesmos pigmentos que deixam roxo o chá de flor de ervilha-borboleta."
+    },
+    "de": {
+     "n": "Heidelbeer-Limonade",
+     "from": "Sommerklassiker",
+     "ing": [
+      "80 g Heidelbeeren",
+      "2 EL Zucker",
+      "Saft von 2 Zitronen",
+      "300 ml kaltes Wasser",
+      "Eis"
+     ],
+     "steps": [
+      "Heidelbeeren mit Zucker und einem Schluck Wasser 5 Minuten köcheln und abseihen.",
+      "Zitronensaft mit dem kalten Wasser mischen.",
+      "Den Heidelbeersirup in ein Glas mit Eis geben und mit der Limonade auffüllen."
+     ],
+     "fact": "Heidelbeeren verdanken ihre Farbe den Anthocyanen, denselben Farbstoffen, die Schmetterlingserbsentee violett färben."
+    },
+    "fr": {
+     "n": "Limonade aux myrtilles",
+     "from": "Classique de l'été",
+     "ing": [
+      "80 g de myrtilles",
+      "2 c. à soupe de sucre",
+      "Le jus de 2 citrons",
+      "300 ml d'eau froide",
+      "Glaçons"
+     ],
+     "steps": [
+      "Fais mijoter les myrtilles avec le sucre et un peu d'eau 5 minutes, puis filtre.",
+      "Mélange le jus de citron avec l'eau froide.",
+      "Verse le sirop de myrtille sur des glaçons et complète avec la limonade."
+     ],
+     "fact": "Les myrtilles doivent leur couleur aux anthocyanes, les pigments qui rendent violet le thé de pois papillon."
+    },
+    "it": {
+     "n": "Limonata ai mirtilli",
+     "from": "Classico estivo",
+     "ing": [
+      "80 g di mirtilli",
+      "2 cucchiai di zucchero",
+      "Il succo di 2 limoni",
+      "300 ml di acqua fredda",
+      "Ghiaccio"
+     ],
+     "steps": [
+      "Cuoci i mirtilli con lo zucchero e un goccio d'acqua per 5 minuti, poi filtra.",
+      "Mescola il succo di limone con l'acqua fredda.",
+      "Versa lo sciroppo di mirtilli su del ghiaccio e completa con la limonata."
+     ],
+     "fact": "I mirtilli devono il colore agli antociani, gli stessi pigmenti che rendono viola il tè di pisello farfalla."
+    },
+    "tr": {
+     "n": "Yaban mersinli limonata",
+     "from": "Yaz klasiği",
+     "ing": [
+      "80 g yaban mersini",
+      "2 yemek kaşığı şeker",
+      "2 limonun suyu",
+      "300 ml soğuk su",
+      "Buz"
+     ],
+     "steps": [
+      "Yaban mersinlerini şeker ve biraz suyla 5 dakika kaynat, sonra süz.",
+      "Limon suyunu soğuk suyla karıştır.",
+      "Yaban mersini şurubunu buzlu bir bardağa dök ve limonatayla tamamla."
+     ],
+     "fact": "Yaban mersini rengini, kelebek bezelyesi çayını mora çeviren antosiyaninlerden alır."
+    },
+    "pl": {
+     "n": "Lemoniada borówkowa",
+     "from": "Letnia klasyka",
+     "ing": [
+      "80 g borówek",
+      "2 łyżki cukru",
+      "Sok z 2 cytryn",
+      "300 ml zimnej wody",
+      "Lód"
+     ],
+     "steps": [
+      "Gotuj borówki z cukrem i odrobiną wody 5 minut, potem przecedź.",
+      "Wymieszaj sok z cytryny z zimną wodą.",
+      "Wlej syrop borówkowy do szklanki z lodem i dopełnij lemoniadą."
+     ],
+     "fact": "Borówki zawdzięczają kolor antocyjanom, tym samym barwnikom, które barwią na fioletowo herbatę z klitorii."
+    }
+   }
+  },
+  {
+   "n": "Ayran",
+   "cat": "drink",
+   "from": "Turkey",
+   "layers": [
+    "milk",
+    "foam"
+   ],
+   "art": "tall ice mint",
+   "ing": [
+    "150 g plain yogurt",
+    "150 ml cold water",
+    "A pinch of salt",
+    "Ice",
+    "Fresh mint (optional)"
+   ],
+   "steps": [
+    "Whisk the yogurt with the salt until smooth.",
+    "Add the cold water and whisk hard until frothy.",
+    "Pour over ice and top with a mint leaf."
+   ],
+   "fact": "Ayran is so popular in Turkey that it is often called the national drink; the froth on top is a sign of a good one.",
+   "tr": {
+    "ro": {
+     "n": "Ayran",
+     "from": "Turcia",
+     "ing": [
+      "150 g iaurt simplu",
+      "150 ml apă rece",
+      "Un vârf de sare",
+      "Gheață",
+      "Mentă proaspătă (opțional)"
+     ],
+     "steps": [
+      "Bate iaurtul cu sarea până devine fin.",
+      "Adaugă apa rece și bate tare până face spumă.",
+      "Toarnă peste gheață și pune deasupra o frunză de mentă."
+     ],
+     "fact": "Ayranul e atât de iubit în Turcia încât e numit adesea băutura națională; spuma de deasupra arată un ayran bun."
+    },
+    "es": {
+     "n": "Ayran",
+     "from": "Turquía",
+     "ing": [
+      "150 g de yogur natural",
+      "150 ml de agua fría",
+      "Una pizca de sal",
+      "Hielo",
+      "Menta fresca (opcional)"
+     ],
+     "steps": [
+      "Bate el yogur con la sal hasta que quede liso.",
+      "Añade el agua fría y bate con fuerza hasta que haga espuma.",
+      "Sírvelo con hielo y una hoja de menta."
+     ],
+     "fact": "El ayran es tan popular en Turquía que a menudo se le llama la bebida nacional; la espuma es señal de uno bueno."
+    },
+    "pt": {
+     "n": "Ayran",
+     "from": "Turquia",
+     "ing": [
+      "150 g de iogurte natural",
+      "150 ml de água gelada",
+      "Uma pitada de sal",
+      "Gelo",
+      "Hortelã fresca (opcional)"
+     ],
+     "steps": [
+      "Bata o iogurte com o sal até ficar liso.",
+      "Junte a água gelada e bata forte até espumar.",
+      "Sirva com gelo e uma folha de hortelã."
+     ],
+     "fact": "O ayran é tão popular na Turquia que costuma ser chamado de bebida nacional; a espuma é sinal de um bom ayran."
+    },
+    "de": {
+     "n": "Ayran",
+     "from": "Türkei",
+     "ing": [
+      "150 g Naturjoghurt",
+      "150 ml kaltes Wasser",
+      "Eine Prise Salz",
+      "Eis",
+      "Frische Minze (nach Belieben)"
+     ],
+     "steps": [
+      "Den Joghurt mit dem Salz glatt rühren.",
+      "Das kalte Wasser dazugeben und kräftig schaumig schlagen.",
+      "Über Eis gießen und mit einem Minzblatt servieren."
+     ],
+     "fact": "Ayran ist in der Türkei so beliebt, dass er oft Nationalgetränk genannt wird; der Schaum zeigt einen guten Ayran."
+    },
+    "fr": {
+     "n": "Ayran",
+     "from": "Turquie",
+     "ing": [
+      "150 g de yaourt nature",
+      "150 ml d'eau froide",
+      "Une pincée de sel",
+      "Glaçons",
+      "Menthe fraîche (facultatif)"
+     ],
+     "steps": [
+      "Fouette le yaourt avec le sel jusqu'à ce qu'il soit lisse.",
+      "Ajoute l'eau froide et fouette fort jusqu'à ce qu'il mousse.",
+      "Sers sur des glaçons avec une feuille de menthe."
+     ],
+     "fact": "L'ayran est si populaire en Turquie qu'on l'appelle souvent la boisson nationale ; la mousse est le signe d'un bon ayran."
+    },
+    "it": {
+     "n": "Ayran",
+     "from": "Turchia",
+     "ing": [
+      "150 g di yogurt bianco",
+      "150 ml di acqua fredda",
+      "Un pizzico di sale",
+      "Ghiaccio",
+      "Menta fresca (facoltativa)"
+     ],
+     "steps": [
+      "Sbatti lo yogurt con il sale finché è liscio.",
+      "Aggiungi l'acqua fredda e sbatti forte finché fa schiuma.",
+      "Versalo sul ghiaccio con una foglia di menta."
+     ],
+     "fact": "L'ayran è così amato in Turchia che spesso lo chiamano la bevanda nazionale; la schiuma è il segno di un buon ayran."
+    },
+    "tr": {
+     "n": "Ayran",
+     "from": "Türkiye",
+     "ing": [
+      "150 g sade yoğurt",
+      "150 ml soğuk su",
+      "Bir tutam tuz",
+      "Buz",
+      "Taze nane (isteğe bağlı)"
+     ],
+     "steps": [
+      "Yoğurdu tuzla pürüzsüz olana kadar çırp.",
+      "Soğuk suyu ekle ve köpürene kadar kuvvetlice çırp.",
+      "Buzun üstüne dök ve bir nane yaprağıyla servis et."
+     ],
+     "fact": "Ayran Türkiye'de o kadar sevilir ki sık sık milli içecek denir; üstündeki köpük iyi bir ayranın işaretidir."
+    },
+    "pl": {
+     "n": "Ayran",
+     "from": "Turcja",
+     "ing": [
+      "150 g jogurtu naturalnego",
+      "150 ml zimnej wody",
+      "Szczypta soli",
+      "Lód",
+      "Świeża mięta (opcjonalnie)"
+     ],
+     "steps": [
+      "Ubij jogurt z solą na gładko.",
+      "Dodaj zimną wodę i mocno ubijaj, aż się spieni.",
+      "Podawaj z lodem i listkiem mięty."
+     ],
+     "fact": "Ayran jest w Turcji tak popularny, że często nazywa się go napojem narodowym; piana na wierzchu świadczy o dobrym ayranie."
+    }
+   }
+  },
+  {
+   "n": "Chicha Morada",
+   "cat": "mocktail",
+   "from": "Peru",
+   "layers": [
+    "lavender",
+    "soda"
+   ],
+   "art": "jar ice lime apple",
+   "ing": [
+    "200 g dried purple corn",
+    "1 litre water",
+    "1 cinnamon stick, 3 cloves",
+    "Peel of 1 pineapple and 1 apple",
+    "Juice of 2 limes, sugar to taste"
+   ],
+   "steps": [
+    "Simmer the corn, spices and fruit peel in the water for 45 minutes.",
+    "Strain, let it cool and stir in the lime juice and sugar.",
+    "Serve cold over ice with small pieces of apple."
+   ],
+   "fact": "The deep purple comes from the corn itself; Peruvians have made this drink since long before the Spanish arrived.",
+   "tr": {
+    "ro": {
+     "n": "Chicha morada",
+     "from": "Peru",
+     "ing": [
+      "200 g porumb mov uscat",
+      "1 litru de apă",
+      "1 baton de scorțișoară, 3 cuișoare",
+      "Coaja de la 1 ananas și 1 măr",
+      "Zeama de la 2 lime, zahăr după gust"
+     ],
+     "steps": [
+      "Fierbe porumbul, condimentele și cojile de fructe în apă 45 de minute.",
+      "Strecoară, lasă să se răcească și adaugă zeama de lime și zahărul.",
+      "Servește rece, peste gheață, cu bucățele de măr."
+     ],
+     "fact": "Culoarea violet închis vine chiar din porumb; peruanii fac această băutură de dinainte de venirea spaniolilor."
+    },
+    "es": {
+     "n": "Chicha morada",
+     "from": "Perú",
+     "ing": [
+      "200 g de maíz morado seco",
+      "1 litro de agua",
+      "1 rama de canela, 3 clavos",
+      "La cáscara de 1 piña y 1 manzana",
+      "El zumo de 2 limas, azúcar al gusto"
+     ],
+     "steps": [
+      "Cuece el maíz, las especias y las cáscaras en el agua 45 minutos.",
+      "Cuela, deja enfriar y añade el zumo de lima y el azúcar.",
+      "Sírvela fría con hielo y trocitos de manzana."
+     ],
+     "fact": "El morado intenso viene del propio maíz; los peruanos la preparan desde mucho antes de la llegada de los españoles."
+    },
+    "pt": {
+     "n": "Chicha morada",
+     "from": "Peru",
+     "ing": [
+      "200 g de milho roxo seco",
+      "1 litro de água",
+      "1 pau de canela, 3 cravos",
+      "Casca de 1 abacaxi e 1 maçã",
+      "Suco de 2 limões, açúcar a gosto"
+     ],
+     "steps": [
+      "Cozinhe o milho, as especiarias e as cascas na água por 45 minutos.",
+      "Coe, deixe esfriar e misture o suco de limão e o açúcar.",
+      "Sirva gelada com gelo e pedacinhos de maçã."
+     ],
+     "fact": "O roxo intenso vem do próprio milho; os peruanos fazem esta bebida desde muito antes da chegada dos espanhóis."
+    },
+    "de": {
+     "n": "Chicha morada",
+     "from": "Peru",
+     "ing": [
+      "200 g getrockneter violetter Mais",
+      "1 Liter Wasser",
+      "1 Zimtstange, 3 Nelken",
+      "Schale von 1 Ananas und 1 Apfel",
+      "Saft von 2 Limetten, Zucker nach Geschmack"
+     ],
+     "steps": [
+      "Mais, Gewürze und Fruchtschalen 45 Minuten im Wasser köcheln.",
+      "Abseihen, abkühlen lassen, Limettensaft und Zucker einrühren.",
+      "Kalt über Eis mit kleinen Apfelstücken servieren."
+     ],
+     "fact": "Das tiefe Violett stammt vom Mais selbst; in Peru wird das Getränk schon seit lange vor den Spaniern gemacht."
+    },
+    "fr": {
+     "n": "Chicha morada",
+     "from": "Pérou",
+     "ing": [
+      "200 g de maïs violet séché",
+      "1 litre d'eau",
+      "1 bâton de cannelle, 3 clous de girofle",
+      "L'écorce d'1 ananas et d'1 pomme",
+      "Le jus de 2 citrons verts, sucre à volonté"
+     ],
+     "steps": [
+      "Fais mijoter le maïs, les épices et les écorces dans l'eau 45 minutes.",
+      "Filtre, laisse refroidir et ajoute le jus de citron vert et le sucre.",
+      "Sers très frais sur des glaçons avec des dés de pomme."
+     ],
+     "fact": "Le violet profond vient du maïs lui-même ; les Péruviens la préparent depuis bien avant l'arrivée des Espagnols."
+    },
+    "it": {
+     "n": "Chicha morada",
+     "from": "Perù",
+     "ing": [
+      "200 g di mais viola secco",
+      "1 litro d'acqua",
+      "1 stecca di cannella, 3 chiodi di garofano",
+      "La buccia di 1 ananas e 1 mela",
+      "Il succo di 2 lime, zucchero a piacere"
+     ],
+     "steps": [
+      "Fai sobbollire mais, spezie e bucce nell'acqua per 45 minuti.",
+      "Filtra, lascia raffreddare e aggiungi succo di lime e zucchero.",
+      "Servila fredda con ghiaccio e pezzetti di mela."
+     ],
+     "fact": "Il viola intenso viene dal mais stesso; i peruviani la preparano da molto prima dell'arrivo degli spagnoli."
+    },
+    "tr": {
+     "n": "Chicha morada",
+     "from": "Peru",
+     "ing": [
+      "200 g kurutulmuş mor mısır",
+      "1 litre su",
+      "1 çubuk tarçın, 3 karanfil",
+      "1 ananas ve 1 elmanın kabuğu",
+      "2 misket limonunun suyu, damak zevkine göre şeker"
+     ],
+     "steps": [
+      "Mısırı, baharatları ve meyve kabuklarını suda 45 dakika kaynat.",
+      "Süz, soğumaya bırak, misket limonu suyu ve şekeri ekle.",
+      "Buzla ve küçük elma parçalarıyla soğuk servis et."
+     ],
+     "fact": "Koyu mor renk mısırın kendisinden gelir; Perulular bu içeceği İspanyollar gelmeden çok önce de yapıyordu."
+    },
+    "pl": {
+     "n": "Chicha morada",
+     "from": "Peru",
+     "ing": [
+      "200 g suszonej fioletowej kukurydzy",
+      "1 litr wody",
+      "1 laska cynamonu, 3 goździki",
+      "Skórka z 1 ananasa i 1 jabłka",
+      "Sok z 2 limonek, cukier do smaku"
+     ],
+     "steps": [
+      "Gotuj kukurydzę, przyprawy i skórki w wodzie przez 45 minut.",
+      "Przecedź, ostudź i dodaj sok z limonki oraz cukier.",
+      "Podawaj zimną z lodem i kawałkami jabłka."
+     ],
+     "fact": "Głęboki fiolet pochodzi z samej kukurydzy; Peruwiańczycy przyrządzali ten napój na długo przed przybyciem Hiszpanów."
+    }
+   }
+  },
+  {
+   "n": "Amandine",
+   "cat": "sweet",
+   "from": "Romania",
+   "layers": [
+    "choco",
+    "ganache",
+    "cream",
+    "ganache"
+   ],
+   "art": "slice",
+   "ing": [
+    "Chocolate sponge baked in a tray",
+    "200 ml syrup: water, sugar, a little cocoa and rum essence (alcohol-free)",
+    "Chocolate buttercream",
+    "Chocolate glaze"
+   ],
+   "steps": [
+    "Cut the sponge into two layers and brush both with the syrup.",
+    "Spread the buttercream between them and smooth the top.",
+    "Pour over the glaze, chill for 2 hours and cut into rectangles."
+   ],
+   "fact": "Amandine is a favourite of every Romanian pastry shop; the glaze is often finished with a small rosette of cream.",
+   "tr": {
+    "ro": {
+     "n": "Amandine",
+     "from": "România",
+     "ing": [
+      "Blat de ciocolată copt în tavă",
+      "200 ml sirop: apă, zahăr, puțină cacao și esență de rom (fără alcool)",
+      "Cremă de unt cu ciocolată",
+      "Glazură de ciocolată"
+     ],
+     "steps": [
+      "Taie blatul în două foi și însiropează-le pe amândouă.",
+      "Întinde crema între ele și netezește deasupra.",
+      "Toarnă glazura, ține 2 ore la rece și taie dreptunghiuri."
+     ],
+     "fact": "Amandina e preferata oricărei cofetării din România; glazura se termină des cu o rozetă mică de cremă."
+    },
+    "es": {
+     "n": "Amandine",
+     "from": "Rumanía",
+     "ing": [
+      "Bizcocho de chocolate horneado en bandeja",
+      "200 ml de almíbar: agua, azúcar, algo de cacao y esencia de ron (sin alcohol)",
+      "Crema de mantequilla de chocolate",
+      "Glaseado de chocolate"
+     ],
+     "steps": [
+      "Corta el bizcocho en dos capas y empápalas con el almíbar.",
+      "Extiende la crema entre ellas y alisa la parte de arriba.",
+      "Cubre con el glaseado, enfría 2 horas y corta en rectángulos."
+     ],
+     "fact": "La amandine es la favorita de las pastelerías rumanas; el glaseado suele llevar una pequeña roseta de crema."
+    },
+    "pt": {
+     "n": "Amandine",
+     "from": "Romênia",
+     "ing": [
+      "Pão de ló de chocolate assado em assadeira",
+      "200 ml de calda: água, açúcar, um pouco de cacau e essência de rum (sem álcool)",
+      "Creme de manteiga de chocolate",
+      "Cobertura de chocolate"
+     ],
+     "steps": [
+      "Corte o pão de ló em duas camadas e umedeça as duas com a calda.",
+      "Espalhe o creme entre elas e alise o topo.",
+      "Cubra com a cobertura, leve à geladeira por 2 horas e corte em retângulos."
+     ],
+     "fact": "A amandine é a preferida das confeitarias romenas; a cobertura costuma ganhar uma pequena roseta de creme."
+    },
+    "de": {
+     "n": "Amandine",
+     "from": "Rumänien",
+     "ing": [
+      "Schokoladenbiskuit vom Blech",
+      "200 ml Sirup: Wasser, Zucker, etwas Kakao und Rumaroma (alkoholfrei)",
+      "Schokoladen-Buttercreme",
+      "Schokoladenglasur"
+     ],
+     "steps": [
+      "Den Biskuit in zwei Böden schneiden und beide mit Sirup tränken.",
+      "Die Creme dazwischen streichen und oben glätten.",
+      "Mit Glasur überziehen, 2 Stunden kühlen und in Rechtecke schneiden."
+     ],
+     "fact": "Amandine ist in jeder rumänischen Konditorei ein Liebling; die Glasur bekommt oft eine kleine Cremerosette."
+    },
+    "fr": {
+     "n": "Amandine",
+     "from": "Roumanie",
+     "ing": [
+      "Génoise au chocolat cuite sur plaque",
+      "200 ml de sirop : eau, sucre, un peu de cacao et arôme rhum (sans alcool)",
+      "Crème au beurre chocolat",
+      "Glaçage au chocolat"
+     ],
+     "steps": [
+      "Coupe la génoise en deux couches et imbibe-les de sirop.",
+      "Étale la crème entre les deux et lisse le dessus.",
+      "Nappe de glaçage, laisse 2 heures au frais et coupe en rectangles."
+     ],
+     "fact": "L'amandine est la préférée des pâtisseries roumaines ; le glaçage porte souvent une petite rosace de crème."
+    },
+    "it": {
+     "n": "Amandine",
+     "from": "Romania",
+     "ing": [
+      "Pan di Spagna al cioccolato cotto in teglia",
+      "200 ml di sciroppo: acqua, zucchero, un po' di cacao e aroma di rum (analcolico)",
+      "Crema al burro al cioccolato",
+      "Glassa al cioccolato"
+     ],
+     "steps": [
+      "Taglia il pan di Spagna in due strati e bagnali con lo sciroppo.",
+      "Stendi la crema in mezzo e livella la superficie.",
+      "Copri con la glassa, metti in frigo 2 ore e taglia a rettangoli."
+     ],
+     "fact": "L'amandine è la preferita delle pasticcerie rumene; la glassa spesso porta una piccola rosetta di crema."
+    },
+    "tr": {
+     "n": "Amandine",
+     "from": "Romanya",
+     "ing": [
+      "Tepside pişmiş kakaolu pandispanya",
+      "200 ml şurup: su, şeker, biraz kakao ve rom aroması (alkolsüz)",
+      "Çikolatalı tereyağlı krema",
+      "Çikolata sosu"
+     ],
+     "steps": [
+      "Pandispanyayı iki kata böl ve ikisini de şurupla ıslat.",
+      "Kremayı aralarına sür ve üstünü düzelt.",
+      "Üstüne çikolata sosunu dök, 2 saat soğut ve dikdörtgen kes."
+     ],
+     "fact": "Amandine, Romanya'daki her pastanenin gözdesidir; üstü çoğu zaman küçük bir krema rozetiyle süslenir."
+    },
+    "pl": {
+     "n": "Amandine",
+     "from": "Rumunia",
+     "ing": [
+      "Biszkopt czekoladowy pieczony w blaszce",
+      "200 ml syropu: woda, cukier, trochę kakao i aromat rumowy (bez alkoholu)",
+      "Czekoladowy krem maślany",
+      "Polewa czekoladowa"
+     ],
+     "steps": [
+      "Przekrój biszkopt na dwa blaty i nasącz oba syropem.",
+      "Rozsmaruj krem między nimi i wygładź wierzch.",
+      "Polej polewą, schłódź 2 godziny i pokrój w prostokąty."
+     ],
+     "fact": "Amandine to ulubieniec każdej rumuńskiej cukierni; polewę często zdobi mała różyczka z kremu."
+    }
+   }
+  },
+  {
+   "n": "Savarină",
+   "cat": "sweet",
+   "from": "Romania",
+   "layers": [
+    "sponge~caramel",
+    "cream"
+   ],
+   "art": "slice cream cherry",
+   "ing": [
+    "Savarin ring of yeast dough, baked",
+    "300 ml syrup: water, sugar, orange peel and vanilla",
+    "Whipped cream",
+    "Candied cherries"
+   ],
+   "steps": [
+    "Pour the warm syrup slowly over the cooled savarin until it is soaked through.",
+    "Cut it open and fill it with plenty of whipped cream.",
+    "Top with a cherry and serve cold."
+   ],
+   "fact": "It comes from the French savarin, named after the gastronome Brillat-Savarin; Romanians made it their own with lots of cream.",
+   "tr": {
+    "ro": {
+     "n": "Savarină",
+     "from": "România",
+     "ing": [
+      "Savarină din aluat dospit, coaptă",
+      "300 ml sirop: apă, zahăr, coajă de portocală și vanilie",
+      "Frișcă",
+      "Cireșe confiate"
+     ],
+     "steps": [
+      "Toarnă încet siropul cald peste savarina răcită până se însiropează bine.",
+      "Taie-o și umple-o cu multă frișcă.",
+      "Pune o cireașă deasupra și servește rece."
+     ],
+     "fact": "Vine din savarinul francez, numit după gastronomul Brillat-Savarin; românii l-au adoptat cu multă frișcă."
+    },
+    "es": {
+     "n": "Savarina",
+     "from": "Rumanía",
+     "ing": [
+      "Savarín de masa de levadura horneado",
+      "300 ml de almíbar: agua, azúcar, piel de naranja y vainilla",
+      "Nata montada",
+      "Cerezas confitadas"
+     ],
+     "steps": [
+      "Vierte despacio el almíbar tibio sobre el savarín frío hasta empaparlo.",
+      "Ábrelo y rellénalo con mucha nata montada.",
+      "Corona con una cereza y sirve frío."
+     ],
+     "fact": "Viene del savarin francés, llamado así por el gastrónomo Brillat-Savarin; los rumanos lo hicieron suyo con mucha nata."
+    },
+    "pt": {
+     "n": "Savarina",
+     "from": "Romênia",
+     "ing": [
+      "Savarin de massa fermentada, assado",
+      "300 ml de calda: água, açúcar, casca de laranja e baunilha",
+      "Chantilly",
+      "Cerejas cristalizadas"
+     ],
+     "steps": [
+      "Despeje a calda morna devagar sobre o savarin frio até encharcar.",
+      "Abra e recheie com bastante chantilly.",
+      "Coloque uma cereja por cima e sirva gelado."
+     ],
+     "fact": "Vem do savarin francês, batizado em homenagem ao gastrônomo Brillat-Savarin; os romenos o adotaram com muito creme."
+    },
+    "de": {
+     "n": "Savarina",
+     "from": "Rumänien",
+     "ing": [
+      "Gebackener Savarin aus Hefeteig",
+      "300 ml Sirup: Wasser, Zucker, Orangenschale und Vanille",
+      "Schlagsahne",
+      "Kandierte Kirschen"
+     ],
+     "steps": [
+      "Den warmen Sirup langsam über den kalten Savarin gießen, bis er durchtränkt ist.",
+      "Aufschneiden und reichlich mit Sahne füllen.",
+      "Mit einer Kirsche krönen und kalt servieren."
+     ],
+     "fact": "Er stammt vom französischen Savarin, benannt nach dem Feinschmecker Brillat-Savarin; Rumänen lieben ihn mit viel Sahne."
+    },
+    "fr": {
+     "n": "Savarina",
+     "from": "Roumanie",
+     "ing": [
+      "Savarin en pâte levée, cuit",
+      "300 ml de sirop : eau, sucre, zeste d'orange et vanille",
+      "Crème fouettée",
+      "Cerises confites"
+     ],
+     "steps": [
+      "Verse doucement le sirop tiède sur le savarin refroidi jusqu'à ce qu'il soit bien imbibé.",
+      "Ouvre-le et garnis-le de beaucoup de crème fouettée.",
+      "Ajoute une cerise et sers bien frais."
+     ],
+     "fact": "Il vient du savarin français, nommé d'après le gastronome Brillat-Savarin ; les Roumains l'ont adopté avec beaucoup de crème."
+    },
+    "it": {
+     "n": "Savarina",
+     "from": "Romania",
+     "ing": [
+      "Savarin di pasta lievitata, cotto",
+      "300 ml di sciroppo: acqua, zucchero, scorza d'arancia e vaniglia",
+      "Panna montata",
+      "Ciliegie candite"
+     ],
+     "steps": [
+      "Versa piano lo sciroppo tiepido sul savarin freddo finché è ben inzuppato.",
+      "Aprilo e farciscilo con tanta panna montata.",
+      "Metti una ciliegia sopra e servilo freddo."
+     ],
+     "fact": "Deriva dal savarin francese, dedicato al gastronomo Brillat-Savarin; i rumeni lo hanno fatto loro con tanta panna."
+    },
+    "tr": {
+     "n": "Savarina",
+     "from": "Romanya",
+     "ing": [
+      "Mayalı hamurdan pişmiş savaren",
+      "300 ml şurup: su, şeker, portakal kabuğu ve vanilya",
+      "Çırpılmış krema",
+      "Şekerlenmiş kiraz"
+     ],
+     "steps": [
+      "Ilık şurubu soğumuş savarenin üstüne iyice ıslanana kadar yavaşça dök.",
+      "Ortadan kes ve bol kremayla doldur.",
+      "Üstüne bir kiraz koy ve soğuk servis et."
+     ],
+     "fact": "Adını gurme Brillat-Savarin'den alan Fransız savareninden gelir; Romenler onu bol kremayla benimsedi."
+    },
+    "pl": {
+     "n": "Savarina",
+     "from": "Rumunia",
+     "ing": [
+      "Upieczony sawaren z ciasta drożdżowego",
+      "300 ml syropu: woda, cukier, skórka pomarańczowa i wanilia",
+      "Bita śmietana",
+      "Kandyzowane wiśnie"
+     ],
+     "steps": [
+      "Powoli polej ostudzony sawaren ciepłym syropem, aż dobrze nasiąknie.",
+      "Przekrój i nadziej dużą ilością bitej śmietany.",
+      "Udekoruj wiśnią i podawaj na zimno."
+     ],
+     "fact": "Pochodzi od francuskiego sawarenu, nazwanego na cześć smakosza Brillat-Savarina; Rumuni pokochali go z dużą ilością śmietany."
+    }
+   }
+  },
+  {
+   "n": "Pączki",
+   "cat": "sweet",
+   "from": "Poland",
+   "layers": [
+    "sponge",
+    "jelly",
+    "sponge"
+   ],
+   "art": "balls",
+   "ing": [
+    "500 g flour, 25 g fresh yeast, 250 ml warm milk",
+    "4 egg yolks, 60 g sugar, 60 g butter",
+    "Rose-petal or plum jam",
+    "Oil for frying, icing sugar"
+   ],
+   "steps": [
+    "Make a soft yeast dough, let it rise, then cut it into rounds and let them rise again.",
+    "Fry them in hot oil until golden on both sides, with a pale ring around the middle.",
+    "Pipe in the jam and dust with sugar or glaze."
+   ],
+   "fact": "On Fat Thursday, before Lent, Poles eat millions of pączki in a single day.",
+   "tr": {
+    "ro": {
+     "n": "Pączki",
+     "from": "Polonia",
+     "ing": [
+      "500 g făină, 25 g drojdie proaspătă, 250 ml lapte călduț",
+      "4 gălbenușuri, 60 g zahăr, 60 g unt",
+      "Dulceață de petale de trandafir sau de prune",
+      "Ulei de prăjit, zahăr pudră"
+     ],
+     "steps": [
+      "Fă un aluat dospit moale, lasă-l să crească, taie cercuri și lasă-le să mai crească o dată.",
+      "Prăjește-le în ulei încins până se rumenesc pe ambele părți, cu un inel deschis la mijloc.",
+      "Umple-le cu dulceață și pudrează-le cu zahăr sau glazură."
+     ],
+     "fact": "În Joia Grasă, înainte de post, polonezii mănâncă milioane de pączki într-o singură zi."
+    },
+    "es": {
+     "n": "Pączki",
+     "from": "Polonia",
+     "ing": [
+      "500 g de harina, 25 g de levadura fresca, 250 ml de leche tibia",
+      "4 yemas, 60 g de azúcar, 60 g de mantequilla",
+      "Mermelada de pétalos de rosa o de ciruela",
+      "Aceite para freír, azúcar glas"
+     ],
+     "steps": [
+      "Haz una masa de levadura suave, déjala subir, corta círculos y deja que suban otra vez.",
+      "Fríelos en aceite caliente hasta dorar por ambos lados, con un anillo claro en el centro.",
+      "Rellénalos de mermelada y espolvorea azúcar o glaseado."
+     ],
+     "fact": "El Jueves Lardero, antes de la Cuaresma, los polacos comen millones de pączki en un solo día."
+    },
+    "pt": {
+     "n": "Pączki",
+     "from": "Polônia",
+     "ing": [
+      "500 g de farinha, 25 g de fermento fresco, 250 ml de leite morno",
+      "4 gemas, 60 g de açúcar, 60 g de manteiga",
+      "Geleia de pétalas de rosa ou de ameixa",
+      "Óleo para fritar, açúcar de confeiteiro"
+     ],
+     "steps": [
+      "Faça uma massa fermentada macia, deixe crescer, corte círculos e deixe crescer de novo.",
+      "Frite em óleo quente até dourar dos dois lados, com um anel claro no meio.",
+      "Recheie com geleia e polvilhe açúcar ou cubra com glacê."
+     ],
+     "fact": "Na Quinta-Feira Gorda, antes da Quaresma, os poloneses comem milhões de pączki num só dia."
+    },
+    "de": {
+     "n": "Pączki",
+     "from": "Polen",
+     "ing": [
+      "500 g Mehl, 25 g frische Hefe, 250 ml warme Milch",
+      "4 Eigelb, 60 g Zucker, 60 g Butter",
+      "Rosenblüten- oder Pflaumenmarmelade",
+      "Öl zum Frittieren, Puderzucker"
+     ],
+     "steps": [
+      "Einen weichen Hefeteig machen, gehen lassen, Kreise ausstechen und nochmals gehen lassen.",
+      "In heißem Öl beidseitig goldbraun backen, mit einem hellen Ring in der Mitte.",
+      "Mit Marmelade füllen und mit Zucker bestäuben oder glasieren."
+     ],
+     "fact": "Am Fetten Donnerstag vor der Fastenzeit essen Polen an einem einzigen Tag Millionen Pączki."
+    },
+    "fr": {
+     "n": "Pączki",
+     "from": "Pologne",
+     "ing": [
+      "500 g de farine, 25 g de levure fraîche, 250 ml de lait tiède",
+      "4 jaunes d'œuf, 60 g de sucre, 60 g de beurre",
+      "Confiture de pétales de rose ou de prune",
+      "Huile de friture, sucre glace"
+     ],
+     "steps": [
+      "Prépare une pâte levée souple, laisse-la lever, découpe des ronds et laisse-les lever à nouveau.",
+      "Fais-les frire dans l'huile chaude jusqu'à ce qu'ils soient dorés, avec un anneau clair au milieu.",
+      "Garnis-les de confiture et saupoudre de sucre ou glace-les."
+     ],
+     "fact": "Le Jeudi gras, avant le Carême, les Polonais mangent des millions de pączki en une seule journée."
+    },
+    "it": {
+     "n": "Pączki",
+     "from": "Polonia",
+     "ing": [
+      "500 g di farina, 25 g di lievito fresco, 250 ml di latte tiepido",
+      "4 tuorli, 60 g di zucchero, 60 g di burro",
+      "Marmellata di petali di rosa o di prugne",
+      "Olio per friggere, zucchero a velo"
+     ],
+     "steps": [
+      "Prepara un impasto lievitato morbido, fallo lievitare, taglia dei cerchi e falli lievitare di nuovo.",
+      "Friggili nell'olio caldo finché sono dorati, con un anello chiaro al centro.",
+      "Farciscili di marmellata e spolverali di zucchero o glassali."
+     ],
+     "fact": "Il Giovedì Grasso, prima della Quaresima, i polacchi mangiano milioni di pączki in un solo giorno."
+    },
+    "tr": {
+     "n": "Pączki",
+     "from": "Polonya",
+     "ing": [
+      "500 g un, 25 g yaş maya, 250 ml ılık süt",
+      "4 yumurta sarısı, 60 g şeker, 60 g tereyağı",
+      "Gül yaprağı ya da erik reçeli",
+      "Kızartma yağı, pudra şekeri"
+     ],
+     "steps": [
+      "Yumuşak bir mayalı hamur yap, mayalandır, yuvarlaklar kes ve tekrar kabarmaya bırak.",
+      "Kızgın yağda iki tarafı da kızarana kadar kızart, ortasında açık renkli bir halka kalsın.",
+      "İçlerini reçelle doldur, üstüne pudra şekeri ya da şeker sırrı sür."
+     ],
+     "fact": "Perhizden önceki Yağlı Perşembe'de Polonyalılar tek günde milyonlarca pączki yer."
+    },
+    "pl": {
+     "n": "Pączki",
+     "from": "Polska",
+     "ing": [
+      "500 g mąki, 25 g świeżych drożdży, 250 ml ciepłego mleka",
+      "4 żółtka, 60 g cukru, 60 g masła",
+      "Konfitura z róży lub powidła śliwkowe",
+      "Olej do smażenia, cukier puder"
+     ],
+     "steps": [
+      "Zrób miękkie ciasto drożdżowe, odstaw do wyrośnięcia, wykrój krążki i znów odstaw.",
+      "Smaż w gorącym oleju na złoto z obu stron, z jasną obwódką pośrodku.",
+      "Nadziej konfiturą i oprósz cukrem pudrem albo polej lukrem."
+     ],
+     "fact": "W tłusty czwartek, przed Wielkim Postem, Polacy zjadają w jeden dzień miliony pączków."
+    }
+   }
+  },
+  {
+   "n": "Pavlova",
+   "cat": "sweet",
+   "from": "Australia and New Zealand",
+   "layers": [
+    "cream",
+    "cream",
+    "jelly"
+   ],
+   "art": "slice cream berry",
+   "ing": [
+    "4 egg whites",
+    "220 g caster sugar",
+    "1 tsp cornflour, 1 tsp vinegar",
+    "300 ml whipped cream",
+    "Berries, kiwi or passion fruit"
+   ],
+   "steps": [
+    "Whisk the whites to soft peaks, then add the sugar a spoonful at a time until glossy.",
+    "Fold in the cornflour and vinegar, shape a round nest and bake 1 hour at 120 °C; cool in the oven.",
+    "Just before serving, top with the cream and fruit."
+   ],
+   "fact": "It is named after the ballerina Anna Pavlova; Australia and New Zealand both say they invented it.",
+   "tr": {
+    "ro": {
+     "n": "Pavlova",
+     "from": "Australia și Noua Zeelandă",
+     "ing": [
+      "4 albușuri",
+      "220 g zahăr tos fin",
+      "1 linguriță amidon, 1 linguriță oțet",
+      "300 ml frișcă",
+      "Fructe de pădure, kiwi sau fructul pasiunii"
+     ],
+     "steps": [
+      "Bate albușurile spumă, apoi adaugă zahărul câte o lingură până devin lucioase.",
+      "Încorporează amidonul și oțetul, formează un cuib rotund și coace 1 oră la 120 °C; lasă-l să se răcească în cuptor.",
+      "Chiar înainte de servire, pune deasupra frișca și fructele."
+     ],
+     "fact": "Poartă numele balerinei Anna Pavlova; atât Australia, cât și Noua Zeelandă spun că ele au inventat-o."
+    },
+    "es": {
+     "n": "Pavlova",
+     "from": "Australia y Nueva Zelanda",
+     "ing": [
+      "4 claras",
+      "220 g de azúcar extrafino",
+      "1 cdta de maicena, 1 cdta de vinagre",
+      "300 ml de nata montada",
+      "Frutos rojos, kiwi o maracuyá"
+     ],
+     "steps": [
+      "Monta las claras a punto suave y añade el azúcar a cucharadas hasta que brillen.",
+      "Incorpora la maicena y el vinagre, forma un nido redondo y hornea 1 hora a 120 °C; deja enfriar en el horno.",
+      "Justo antes de servir, cubre con la nata y la fruta."
+     ],
+     "fact": "Lleva el nombre de la bailarina Anna Pávlova; Australia y Nueva Zelanda dicen haberla inventado."
+    },
+    "pt": {
+     "n": "Pavlova",
+     "from": "Austrália e Nova Zelândia",
+     "ing": [
+      "4 claras",
+      "220 g de açúcar refinado",
+      "1 colher (chá) de amido de milho, 1 colher (chá) de vinagre",
+      "300 ml de chantilly",
+      "Frutas vermelhas, kiwi ou maracujá"
+     ],
+     "steps": [
+      "Bata as claras em neve mole e junte o açúcar às colheradas até brilhar.",
+      "Misture o amido e o vinagre, modele um ninho redondo e asse 1 hora a 120 °C; deixe esfriar no forno.",
+      "Na hora de servir, cubra com o chantilly e as frutas."
+     ],
+     "fact": "Leva o nome da bailarina Anna Pávlova; Austrália e Nova Zelândia dizem tê-la inventado."
+    },
+    "de": {
+     "n": "Pavlova",
+     "from": "Australien und Neuseeland",
+     "ing": [
+      "4 Eiweiß",
+      "220 g feiner Zucker",
+      "1 TL Speisestärke, 1 TL Essig",
+      "300 ml Schlagsahne",
+      "Beeren, Kiwi oder Passionsfrucht"
+     ],
+     "steps": [
+      "Eiweiß halbsteif schlagen, dann löffelweise den Zucker einrieseln, bis die Masse glänzt.",
+      "Stärke und Essig unterheben, ein rundes Nest formen und 1 Stunde bei 120 °C backen; im Ofen abkühlen lassen.",
+      "Kurz vor dem Servieren mit Sahne und Früchten belegen."
+     ],
+     "fact": "Benannt ist sie nach der Ballerina Anna Pawlowa; Australien und Neuseeland behaupten beide, sie erfunden zu haben."
+    },
+    "fr": {
+     "n": "Pavlova",
+     "from": "Australie et Nouvelle-Zélande",
+     "ing": [
+      "4 blancs d'œuf",
+      "220 g de sucre en poudre fin",
+      "1 c. à café de maïzena, 1 c. à café de vinaigre",
+      "300 ml de crème fouettée",
+      "Fruits rouges, kiwi ou fruit de la passion"
+     ],
+     "steps": [
+      "Monte les blancs en neige souple, puis ajoute le sucre cuillère par cuillère jusqu'à ce qu'ils brillent.",
+      "Incorpore la maïzena et le vinaigre, forme un nid rond et cuis 1 heure à 120 °C ; laisse refroidir dans le four.",
+      "Juste avant de servir, garnis de crème et de fruits."
+     ],
+     "fact": "Elle porte le nom de la danseuse Anna Pavlova ; l'Australie et la Nouvelle-Zélande disent toutes deux l'avoir inventée."
+    },
+    "it": {
+     "n": "Pavlova",
+     "from": "Australia e Nuova Zelanda",
+     "ing": [
+      "4 albumi",
+      "220 g di zucchero semolato fine",
+      "1 cucchiaino di amido di mais, 1 cucchiaino di aceto",
+      "300 ml di panna montata",
+      "Frutti di bosco, kiwi o frutto della passione"
+     ],
+     "steps": [
+      "Monta gli albumi a neve morbida, poi aggiungi lo zucchero un cucchiaio alla volta finché sono lucidi.",
+      "Incorpora amido e aceto, forma un nido rotondo e cuoci 1 ora a 120 °C; lascia raffreddare in forno.",
+      "Poco prima di servire, completa con panna e frutta."
+     ],
+     "fact": "Prende il nome dalla ballerina Anna Pavlova; Australia e Nuova Zelanda sostengono entrambe di averla inventata."
+    },
+    "tr": {
+     "n": "Pavlova",
+     "from": "Avustralya ve Yeni Zelanda",
+     "ing": [
+      "4 yumurta akı",
+      "220 g ince toz şeker",
+      "1 tatlı kaşığı mısır nişastası, 1 tatlı kaşığı sirke",
+      "300 ml çırpılmış krema",
+      "Orman meyveleri, kivi ya da çarkıfelek"
+     ],
+     "steps": [
+      "Yumurta aklarını yumuşak tepe olana kadar çırp, sonra şekeri kaşık kaşık ekleyerek parlayana kadar çırp.",
+      "Nişasta ve sirkeyi kat, yuvarlak bir yuva şekli ver ve 120 °C'de 1 saat pişir; fırında soğut.",
+      "Servisten hemen önce krema ve meyvelerle süsle."
+     ],
+     "fact": "Adını balerin Anna Pavlova'dan alır; Avustralya da Yeni Zelanda da onu kendisinin icat ettiğini söyler."
+    },
+    "pl": {
+     "n": "Pavlova",
+     "from": "Australia i Nowa Zelandia",
+     "ing": [
+      "4 białka",
+      "220 g drobnego cukru",
+      "1 łyżeczka skrobi kukurydzianej, 1 łyżeczka octu",
+      "300 ml bitej śmietany",
+      "Owoce jagodowe, kiwi lub marakuja"
+     ],
+     "steps": [
+      "Ubij białka na miękką pianę, potem dodawaj cukier po łyżce, aż zrobią się lśniące.",
+      "Wmieszaj skrobię i ocet, uformuj okrągłe gniazdo i piecz 1 godzinę w 120 °C; studź w piekarniku.",
+      "Tuż przed podaniem udekoruj śmietaną i owocami."
+     ],
+     "fact": "Nazwę zawdzięcza baletnicy Annie Pawłowej; zarówno Australia, jak i Nowa Zelandia twierdzą, że to one ją wymyśliły."
+    }
+   }
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "n": "The Layer Room",
+   "city": "London",
+   "open": 4200000,
+   "mult": 120,
+   "fr": 8,
+   "view": "shapes",
+   "shapes": [
+    [
+     "F",
+     0,
+     1,
+     0.22,
+     "#9aa3ab"
+    ],
+    [
+     "T",
+     0.55,
+     0.75,
+     0.95,
+     "#8b8478"
+    ],
+    [
+     "F",
+     0.6,
+     0.7,
+     0.8,
+     "#8b8478"
+    ],
+    [
+     "F",
+     0,
+     0.45,
+     0.4,
+     "#b4aca0"
+    ],
+    [
+     "E",
+     0.25,
+     0.4,
+     0.12,
+     0.1,
+     "#a59d90"
+    ]
+   ],
+   "sky": [
+    "#b9c6cf",
+    "#e6e2da"
+   ],
+   "floor": "boards",
+   "chairS": "classic",
+   "lampS": "bulb",
+   "plantS": "leafy",
+   "art": "skyline",
+   "brick": true,
+   "wallA": "#7d3b32",
+   "wallB": "#6e332b",
+   "wains": "#203a33",
+   "floorA": "#8a5a3c",
+   "floorB": "#815436",
+   "slab": "#4e3424",
+   "counter": "#203a33",
+   "top": "#e6e0d6",
+   "accent": "#c9a227",
+   "chair": "#7d3b32",
+   "play": {
+    "wall": "#e2d3cc",
+    "line": "#ece1db",
+    "top": "#203a33",
+    "front": "#16292a",
+    "ink": "#221a17",
+    "muted": "#6e5c55"
+   }
+  }
+ ]
+}
