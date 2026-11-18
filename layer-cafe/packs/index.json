@@ -26,6 +26,19 @@
       "file": "pack-6.json",
       "first": 351,
       "made": "2026-11-11"
+    },
+    {
+      "k": 7,
+      "name": "Festival",
+      "day": 56,
+      "date": "2026-11-27",
+      "size": 100,
+      "kind": "mix",
+      "manual": true,
+      "core": 3,
+      "file": "pack-7.json",
+      "first": 451,
+      "made": "2026-11-18"
     }
   ],
   "launch": "2026-10-23"
