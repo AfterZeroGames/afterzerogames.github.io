@@ -1,0 +1,33 @@
+name: publish site
+# GitHub Pages serves the gh-pages branch. It is rebuilt as one orphan commit from main,
+# so the clips the marketing bot drops there for Instagram never pile up in history.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: pages
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          # keep what the marketing bot hosts on gh-pages (clips in media/, each game's go/latest.json): a push to main
+          # used to wipe them, so TikTok links died mid-week (2026-11-11)
+          git clone -q --depth 1 --branch gh-pages "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/old || true
+          if [ -d /tmp/old/media ]; then mkdir -p media && cp -n /tmp/old/media/* media/ 2>/dev/null || true; fi
+          for f in /tmp/old/*/go/latest.json; do [ -f "$f" ] && cp "$f" "${f#/tmp/old/}" || true; done
+          rm -rf .git .github
+          touch .nojekyll
+          git init -q -b gh-pages
+          git add -A
+          git -c user.name="After Zero bot" -c user.email="afterzero.contact@gmail.com" commit -qm "site"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" gh-pages
+      - name: Ask GitHub Pages to rebuild (pushes made with the workflow token don't trigger it)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST repos/${{ github.repository }}/pages/builds || true
