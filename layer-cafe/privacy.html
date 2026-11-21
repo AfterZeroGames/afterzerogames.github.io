@@ -34,7 +34,7 @@ footer { margin-top: 36px; padding-top: 16px; border-top: 2px solid var(--line);
 <body>
 <main>
   <h1>Layer <span>Café</span> Privacy Policy</h1>
-  <p class="meta">By After Zero · Effective November 12, 2026 · updated for rankings that show every player under a barista name</p>
+  <p class="meta">By After Zero · Effective November 21, 2026 · updated for inviting friends</p>
 
   <div class="summary" aria-label="Summary">
     <div><i class="dot ok"></i><span><b>No account, no sign-up.</b> Your progress (levels, stars, coins, cafés, recipes) is saved only on your phone.</span></div>
@@ -56,6 +56,9 @@ footer { margin-top: 36px; padding-top: 16px; border-top: 2px solid var(--line);
   <p>Every player starts with a random barista name made by the game (such as "Velvet Cocoa 36"). You can change it in Settings, in the rankings or on the duel screen to any free name of 3 to 20 letters, numbers and spaces. Please don't use your real name or anything that identifies you. Names are unique, so the game also stores which random player ID owns each name; your old name is freed when you change it. Rude names and names that pretend to be someone else (for example "admin") are not allowed. Players can report a name from a profile: the report holds the name and the two random player IDs, and we use it only to review the name; we may change or remove a name that breaks these rules.</p>
   <p>Other players see your barista name, café rank, scores and place in the rankings. After an event ends, the game checks your final place in that event's ranking to give the top 10 their prize. Weekly and event entries are kept for up to 12 months; your all-time entry and your name for 12 months after your last update. To have your name and scores removed sooner, email us your barista name.</p>
   <p>If you are signed in to Google Play Games on your phone (the game signs you in automatically when Play Games allows it), the game also sends your total stars and weekly and event points to Play Games leaderboards and unlocks Play Games achievements (for example "Clear 100 levels"). Google handles your Play Games profile under its own privacy policy; you can change your name, profile visibility or sign out in the Google Play Games app. Without Play Games you can still play everything and appear in the game's own rankings; achievements are then kept in the game only.</p>
+
+  <h2>Inviting friends (Google Play Install Referrer, Google Firebase)</h2>
+  <p>Inviting friends is optional. When you share your invite link, the link carries your random Firebase player ID so the game can tell who invited whom; it contains no name, email or Google account. When a friend installs the game from that link, their game reads the Google Play Install Referrer once (the campaign tags of the link they installed from) to find that ID. When the friend clears level 5, their game stores in Firebase Realtime Database, under the inviter's random player ID: the friend's random player ID, their barista name and the time. Only the inviter's game can read this list, to give both players their coffee beans. These entries are kept for up to 12 months. Firebase is run by Google, which processes this data for us under its terms.</p>
 
   <h2>1v1 duels (Google Firebase)</h2>
   <p>Duels are optional. They use the same anonymous Firebase sign-in as the rankings (a random player ID with no name, email or Google account attached). To run a duel and the monthly duel ranking, the game stores in Firebase Realtime Database:</p>
