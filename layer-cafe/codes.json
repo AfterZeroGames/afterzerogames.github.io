@@ -1,4 +1,198 @@
 {
   "_note": "Layer Café redeem codes: only sha256 hashes, never the codes. Made by the marketing repo (add-code).",
-  "codes": []
+  "codes": [
+    {
+      "h": "6187185c80443dd19d60914e563d405a9c12d73bde24c4c9b91cba8da563b0d0",
+      "from": "2026-12-01",
+      "to": "2026-12-03",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "808de798db761984624c9dc787e21cec6189ac7eff91b029cbaf0f8209360f98",
+      "from": "2026-12-02",
+      "to": "2026-12-04",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "75a98dcf91953a0ffc3efb937d8c7ab1fc6d752dfb8834429ca2286098eb6a22",
+      "from": "2026-12-03",
+      "to": "2026-12-05",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "cc960ea65d46b80889ca7a6d1a8de7812f0a4a5eb2f635b770f705d8d14c73a7",
+      "from": "2026-12-04",
+      "to": "2026-12-06",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "509c33be3af4b233378029182a7c32dec706ecc432cbc3bc35ba5dc0742080b1",
+      "from": "2026-12-05",
+      "to": "2026-12-07",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "47edd40bc368a205c53c99db9d3fd6109213b100c3e2a1f438fb08f9b43baac9",
+      "from": "2026-12-06",
+      "to": "2026-12-08",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "35b8cc1c3068e46ef6c8696ab5382053a9dbc3770119c2cdd84189e1969683ca",
+      "from": "2026-12-07",
+      "to": "2026-12-09",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "faee57620f6f767d65a64061d1cb217906a5ed8a211824cd08503bb771c21823",
+      "from": "2026-12-08",
+      "to": "2026-12-10",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "9e1e0c51efb6aaaf3db30cec17252ab6d67111a76f6f945dedb55a0503b50618",
+      "from": "2026-12-09",
+      "to": "2026-12-11",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "5dead704c4698e5c49b04ff0d13645b471078cbcf1c7c058abca58e50bc2ca1d",
+      "from": "2026-12-10",
+      "to": "2026-12-12",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "2c0e5a225ab08d12bc8d2a998121fbdcd1f53d624129f56b0bdc39a8c76f2a58",
+      "from": "2026-12-11",
+      "to": "2026-12-13",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "1219f9303f81588ff032908fd35b8747a3e5172fdc8a5a8b68acd86637cf93d8",
+      "from": "2026-12-12",
+      "to": "2026-12-14",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "1f77aea3115b555046b8fa26ede93c0e0da0798e825888f1547da654182f2862",
+      "from": "2026-12-13",
+      "to": "2026-12-15",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "ae45943e1b475acdbab6dcaf147c1a94a61d70915b991436174f59172504ddd1",
+      "from": "2026-12-14",
+      "to": "2026-12-16",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "3b0b9300d05aaa9065a4abb8607dedb8794a52bfb07ddff7270566c6f1e412c6",
+      "from": "2026-12-15",
+      "to": "2026-12-17",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "970955e9d9ef51474f140fe7ca9f6201fad8b96bb8ebb9e42596467852c671fa",
+      "from": "2026-12-16",
+      "to": "2026-12-18",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "c444a9b7953c9ed9dec4ac772ed470c18da8cfa243194ab0e656a3c7c2c2cc42",
+      "from": "2026-12-17",
+      "to": "2026-12-19",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "647ccdd408a5042eafc5e6e96ec384b98e60e00e6f4d774eb7ba17a95f18f23d",
+      "from": "2026-12-18",
+      "to": "2026-12-20",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "24df9e39015e93de89390517970813d3cdf13a7c0dcc2090cc6344798b048b51",
+      "from": "2026-12-19",
+      "to": "2026-12-21",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "e45cad53986a2b7315cc9c04c5e31bd2e967f83805765b9576839e686164b97d",
+      "from": "2026-12-20",
+      "to": "2026-12-22",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "1ed3abc63038fa0b2648b870978cf26dea2f8a5f0217894dd61951c5f7ebd492",
+      "from": "2026-12-21",
+      "to": "2026-12-23",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "8df0f2178dd9259b75b8b01b4e041744cf3745f84def4b3627866f050af2c5c6",
+      "from": "2026-12-22",
+      "to": "2026-12-24",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "4d9823d9f412776463f437744874e4f89eaaf18f0bc97941a1a728e84ce50a54",
+      "from": "2026-12-23",
+      "to": "2026-12-25",
+      "reward": {
+        "beans": 5
+      }
+    },
+    {
+      "h": "a384dd35e5b682f4602c93e16cc56b09dc833dcae3f8b7ddc553f76bf68e7396",
+      "from": "2026-12-24",
+      "to": "2026-12-26",
+      "reward": {
+        "beans": 5,
+        "style": "h-santa"
+      }
+    }
+  ]
 }
