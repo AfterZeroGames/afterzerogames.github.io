@@ -39,6 +39,19 @@
       "file": "pack-7.json",
       "first": 451,
       "made": "2026-11-18"
+    },
+    {
+      "k": 8,
+      "name": "Shaker Bar",
+      "day": 70,
+      "date": "2026-12-04",
+      "size": 100,
+      "kind": "shaker",
+      "manual": true,
+      "core": 3,
+      "file": "pack-8.json",
+      "first": 551,
+      "made": "2026-11-27"
     }
   ],
   "launch": "2026-10-23"
